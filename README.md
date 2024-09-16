@@ -5,10 +5,8 @@ Curso exclusivo, promovido pela B7Web.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="## 🚀 Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="## 📋 Licença">Licença</a>
 </p>
 
 <p align="center">
@@ -27,7 +25,7 @@ Esse curso utilizou as seguintes tecnologias:
 
 - JavaScript
 
-## :memo: Licença
+## 📋 Licença
 
 Esse projeto está sob a licença MIT.
 
